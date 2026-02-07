@@ -125,4 +125,11 @@ This dataset is suitable for dashboards, reporting, and operational workflows.
 ---
 
 ## 👤 Author
-**Teja Siddhartha Rajam**  
+
+**R. Teja Siddhartha**
+
+- 💼 LinkedIn: https://linkedin.com/in/rtejasiddhartha  
+- 💻 GitHub: https://github.com/rtejasiddhartha  
+- 📧 Email: rtejasiddhartha18@gmail.com  
+
+--- 
